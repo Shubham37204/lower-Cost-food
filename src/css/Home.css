@@ -1,0 +1,141 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.body {
+    background-color: black;
+}
+
+.back {
+    background-image: url("../image/b1.jpg");
+    background-size: cover;
+    height: 150vh;
+}
+
+.circle {
+    margin-top: 4pc;
+    width: 15pc;
+    height: 15pc;
+    border-radius: 50%;
+    background-color: #99e54d;
+}
+
+.number {
+    margin-left: 5pc;
+    margin-top: 3pc;
+    font-size: 2pc;
+}
+
+h1 {
+    font-size: 1.75pc;
+    margin-left: 3pc;
+    margin-top: 1pc;
+}
+
+h2 {
+    margin-top: 1pc;
+    color: white;
+}
+
+h3 {
+    color: white;
+    font-size: 3pc;
+}
+
+.button {
+    margin-top: 4pc;
+}
+
+.btn-warning {
+    width: 19%;
+    border-radius: 2pc;
+    height: 4pc;
+    color: white !important;
+    ;
+}
+
+.btn-warning:hover {
+    color: #111111 !important;
+    background-color: #f9de9b !important;
+}
+
+.sharir {
+    margin-top: -2pc;
+}
+
+.ani:hover {
+    transform: translateY(-10px);
+}
+
+.name {
+    margin-top: -11pc;
+    margin-left: 5pc;
+    color: white;
+    font-size: 1.5pc;
+}
+
+img.card-img-top {
+    height: 21pc;
+    border-radius: 2pc;
+}
+
+.mt-5 {
+    margin-top: 12rem !important;
+}
+
+.niche {
+    margin-top: 14pc;
+}
+
+span {
+    color: white;
+    font-size: 1.5pc;
+    margin-left: -26pc;
+}
+
+.h1 {
+    color: white;
+    margin-left: -7pc;
+}
+
+p {
+    margin-left: -2pc;
+    margin-top: 1pc;
+    color: white;
+}
+
+.pic {
+    height: 30pc !important;
+    border-radius: 2pc;
+    width: 78vh;
+}
+
+.up {
+    margin-top: 4pc;
+}
+
+.backside {
+    margin-top: 3pc;
+    background-image: url("../image/b7.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+
+.b {
+    font-size: 3.65pc;
+    margin-left: -2pc;
+}
+
+.form-floating {
+    width: 43%;
+    margin-left: -2pc;
+    margin-top: 2pc;
+}
+
+.button1 {
+    margin-top: 2pc;
+    margin-left: 2pc;
+    margin-right: -7pc;
+    width: 70%;
+}

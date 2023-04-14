@@ -1,0 +1,103 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+
+.white {
+    height: 60vh;
+    margin-top: 3pc;
+}
+
+.h21 {
+    color: black;
+}
+
+.p22 {
+    color: black;
+    margin-top: 2pc;
+}
+
+.yellow {
+    margin-top: 3pc;
+    background-color: #f1ae0e;
+    height: 85vh;
+}
+
+.whites {
+    background-color: white;
+    height: 65vh;
+    margin-top: 4pc;
+    border-radius: 4pc;
+}
+
+.h12 {
+    margin-right: 3pc;
+    font-size: 2pc;
+}
+
+.p23 {
+    margin-right: 17pc;
+    margin-left: 12pc;
+    font-size: 1.45pc;
+    color: black;
+}
+
+#btn {
+    margin-left: 30pc;
+    border-radius: 3pc;
+    width: 21%;
+    height: 3.45pc;
+}
+
+#top {
+    margin-top: 3pc;
+    margin-left: -3pc;
+    height: 70vh;
+}
+
+#h21 {
+    margin-top: 5pc;
+    font-size: 3.5pc;
+    color: black;
+}
+
+#p22 {
+    color: black;
+    margin-left: 2pc;
+    margin-top: 2pc;
+    font-size: 1.25pc;
+}
+
+#bttn {
+    margin-top: -4pc;
+    width: 45%;
+}
+
+#cont {
+    margin-top: 2pc;
+}
+
+.green {
+    margin-top: 12pc;
+    background-color: lightgreen;
+    height: 75vh;
+}
+
+.Whites {
+    background-color: white;
+    height: 44vh;
+    margin-top: 4pc;
+    border-radius: 4pc;
+}
+
+#colm {
+    margin-top: 4pc;
+    margin-left: 10pc;
+}
+
+#bttns {
+    margin-top: 1pc;
+    width: 45%;
+    margin-left: 0pc;
+}

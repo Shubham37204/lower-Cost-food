@@ -1,0 +1,147 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.square {
+    border: 2px solid white;
+    background-color: #99e54d;
+    height: 35pc;
+    margin-top: 4pc;
+    border-radius: 2pc;
+}
+
+.plate {
+    height: 90vh;
+    border-radius: 2pc;
+    width: 86vh;
+    margin-top: 4pc;
+}
+
+.circle1 {
+    margin-top: -5pc;
+    width: 15pc;
+    height: 15pc;
+    margin-left: 19pc;
+    color: white;
+    border-radius: 50%;
+    background-color: black;
+}
+
+.number1 {
+    margin-left: 1pc;
+    margin-top: 3pc;
+    font-size: 3pc;
+}
+
+.h11 {
+    font-size: 1.75pc;
+    margin-left: 1pc;
+    margin-top: 1pc;
+}
+
+.black {
+    margin-top: 2pc;
+    background-color: black;
+    height: 40vh;
+}
+
+.spa {
+    margin-top: 2pc !important;
+    margin-left: 4pc !important;
+}
+
+.span {
+    color: white;
+    margin-left: 24pc;
+    margin-top: 3pc;
+    font-size: 2pc;
+}
+
+.h24 {
+    margin-top: 2pc;
+    font-size: 3pc;
+    color: white;
+}
+
+#btn1 {
+    margin-left: 3pc;
+    border-radius: 5pc;
+    width: 31%;
+    height: 3.45pc;
+}
+
+.black1 {
+    border: 2px solid white;
+    background-color: black;
+    height: 35pc;
+    margin-top: 4pc;
+    border-radius: 2pc;
+}
+
+.p3 {
+    font-size: 3pc;
+    margin-top: 3pc;
+}
+
+#bts {
+    width: 34%;
+    margin-top: -3pc;
+    height: 4pc;
+    border-radius: 3pc;
+    margin-left: -14pc;
+}
+
+.h31 {
+    margin-left: -5pc;
+    font-size: 4pc;
+}
+
+.number12 {
+    margin-left: 1pc;
+    margin-top: 6pc;
+    font-size: 2pc;
+}
+
+.h32 {
+    margin-left: 1pc;
+    color: black;
+    font-size: 4pc;
+}
+
+#bsnl {
+    width: 34%;
+    margin-top: -1pc;
+    height: 4pc;
+    border-radius: 3pc;
+}
+
+.h34 {
+    margin-left: -4pc;
+    font-size: 2pc;
+    margin-top: 5pc;
+}
+
+
+.h35 {
+    margin-top: 3pc;
+    margin-left: -1pc;
+    font-size: 4pc;
+}
+
+#bsnl1 {
+    width: 34%;
+    margin-top: -2pc;
+    height: 4pc;
+    border-radius: 3pc;
+    margin-left: -3pc;
+}
+
+#bsnl2 {
+    width: 15%;
+    margin-top: -4pc;
+    height: 3pc;
+    border-radius: 3pc;
+    margin-left: 28pc;
+}
+

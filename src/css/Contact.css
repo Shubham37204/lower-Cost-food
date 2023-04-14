@@ -1,0 +1,53 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.backed {
+    background-color: #f9de9b;
+}
+
+.daaba {
+    border: 2px solid white;
+    height: 100vh;
+    border-radius: 3pc;
+    margin-top: 3pc;
+    background-color: white;
+    margin-bottom: 3pc;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+.rang {
+    background-color: orange;
+    height: 60vh;
+}
+
+.wow {
+    margin-left: 0 !important;
+}
+
+.wow1 {
+    margin-left: 3pc !important;
+}
+
+.h2 {
+    margin-top: 3pc;
+    margin-left: 21pc;
+    color: black;
+    font-size: 3pc;
+}
+
+.upper {
+    margin-top: 3pc;
+}
+
+.daaba1 {
+    border: 2px solid white;
+    border-radius: 3pc;
+    margin-top: 3pc;
+    background-color: white;
+}
